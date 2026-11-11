@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+next-env.d.ts
+*.tsbuildinfo
+.env*.local
+.DS_Store
+.vercel
+
+# Licensed music is not committed to this public repo — see public/audio/README.txt
+public/audio/*.mp3
+public/audio/*.m4a
+public/audio/*.wav
