@@ -28,15 +28,6 @@ npm start
 
 Type-check only: `npm run lint`.
 
-## Deploy on Vercel
-
-1. In Vercel, choose **Add New → Project** and import this GitHub repository.
-2. Keep the detected defaults: framework **Next.js**, build command `next build`, no environment variables.
-3. Click **Deploy**. Every push to `main` redeploys automatically, and pull requests get preview URLs.
-
-The background music file isn't committed, because this repo is public and the track is licensed separately.
-Without it, the site works normally and the music control stays hidden. See *Background music* below.
-
 ## Project structure
 
 ```
